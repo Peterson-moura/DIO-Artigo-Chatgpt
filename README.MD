@@ -21,4 +21,42 @@ A engenharia social está diretamente relacionada à Lei Geral de Proteção de 
 
 Para evitar cair em engenharia social, adote várias práticas preventivas. A autenticação multifatorial é uma medida eficaz para aumentar a segurança das contas. Sempre desconfie de solicitações inesperadas de informações confidenciais, especialmente se forem feitas por e-mail ou telefone. Ensine sua equipe a validar qualquer pedido de dados sensíveis diretamente com a pessoa ou departamento que supostamente fez a solicitação. Além disso, crie um canal seguro para que os funcionários possam relatar comportamentos suspeitos. A vigilância e a educação são essenciais para proteger sua organização contra esses ataques.
 
+# Erros Cometidos por Laura no Caso de Engenharia Social
+
+# A Armadilha Digital: A História de Laura
+
+Laura, gerente de TI de uma grande empresa de tecnologia, sempre se preocupou com a segurança da informação. Em um dia normal, ela recebeu um e-mail que parecia ser do CEO, solicitando informações críticas sobre o sistema de gerenciamento de dados. O e-mail parecia urgente, e Laura, confiando na autenticidade, forneceu as informações solicitadas.
+
+Na semana seguinte, a empresa detectou atividades suspeitas em seu sistema. Após investigação, descobriu-se que Laura havia sido vítima de um ataque de engenharia social. O golpista usou um e-mail falso para obter acesso não autorizado a dados sensíveis.
+
+O impacto foi severo: dados comprometidos, perda de confiança dos clientes e penalidades financeiras. A história de Laura ressalta a importância de verificar sempre a autenticidade das solicitações e de manter uma cultura de segurança dentro da empresa. Mesmo os profissionais mais experientes podem ser enganados, e a prevenção é crucial.
+
+## Erros Cometidos por Laura
+
+Esta narrativa destaca a importância de procedimentos robustos de verificação e treinamento contínuo para prevenir ataques de engenharia social e proteger a integridade dos sistemas e dados da empresa.
+
+1. **Falta de Verificação da Autenticidade**
+   - Laura não verificou a autenticidade do e-mail recebido e acreditou automaticamente que era realmente do CEO.
+
+2. **Resposta a Solicitações Urgentes**
+   - Ela respondeu rapidamente a um pedido urgente sem confirmar sua legitimidade, o que é uma prática arriscada.
+
+3. **Compartilhamento de Informações Sensíveis**
+   - Laura forneceu informações críticas e sensíveis sem verificar se a solicitação era genuína.
+
+4. **Não Conferir o Domínio do E-mail**
+   - O e-mail falso pode ter usado um domínio semelhante ao verdadeiro, e Laura não conferiu o endereço de e-mail para verificar sua autenticidade.
+
+5. **Ausência de Protocolos de Verificação**
+   - Não seguiu procedimentos de verificação adicionais, como confirmar a solicitação por telefone ou outro canal seguro.
+
+6. **Ignorar Sinais de Alerta**
+   - Pode ter ignorado sinais de alerta como erros de gramática no e-mail, pedidos de informações incomuns ou um tom urgente que não correspondia à prática normal.
+
+7. **Falta de Treinamento Contínuo**
+   - Laura e sua equipe podem não ter recebido treinamento suficiente sobre como identificar e responder a tentativas de engenharia social.
+
+
+
+
 
