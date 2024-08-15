@@ -21,9 +21,9 @@ A engenharia social está diretamente relacionada à Lei Geral de Proteção de 
 
 Para evitar cair em engenharia social, adote várias práticas preventivas. A autenticação multifatorial é uma medida eficaz para aumentar a segurança das contas. Sempre desconfie de solicitações inesperadas de informações confidenciais, especialmente se forem feitas por e-mail ou telefone. Ensine sua equipe a validar qualquer pedido de dados sensíveis diretamente com a pessoa ou departamento que supostamente fez a solicitação. Além disso, crie um canal seguro para que os funcionários possam relatar comportamentos suspeitos. A vigilância e a educação são essenciais para proteger sua organização contra esses ataques.
 
-# Erros Cometidos por Laura no Caso de Engenharia Social
-
 # A Armadilha Digital: A História de Laura
+
+![Imagem ilustrativa de um ataque de engenharia social](./imagens/email_marketing.png)
 
 Laura, gerente de TI de uma grande empresa de tecnologia, sempre se preocupou com a segurança da informação. Em um dia normal, ela recebeu um e-mail que parecia ser do CEO, solicitando informações críticas sobre o sistema de gerenciamento de dados. O e-mail parecia urgente, e Laura, confiando na autenticidade, forneceu as informações solicitadas.
 
